@@ -3,7 +3,7 @@
   - SwiftUI
     
 ## Installation
-1. Clone the repository: git@github.com:Jamorno/RecordMiniApp.git
+1. Clone the repository: `https://github.com/Jamorno/RecordMiniApp.git`
 2. Open the project in Xcode.
 3. Run the app on a simulator or device.
 
